@@ -12,5 +12,5 @@ TED (от англ. technology, education, design — «технологии, о
 - Тематики выступлений;
 - Авторы выступлений;
 - дашборд на свободную тему.
-Презентация.
+Презентация по ссылке: https://public.tableau.com/views/TED_16825267605340/TED?:language=en-US&:display_count=n&:origin=viz_share_link.
 
