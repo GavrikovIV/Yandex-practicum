@@ -14,5 +14,5 @@
 |7|[Определение уровня NPS по данным Телеком компании](https://github.com/GavrikovIV/Yandex-practicum/tree/main/%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC)|Телеком, NPS|Подготовка презентации на основе анализа данных, создание дашборда в Tableau Public | `Pandas` `SQLAlchemy` `Tableau`|`Pandas` `SQLAlchemy` `Tableau`|
 <br>
 <span align="center">
-  
+
 [E-mail](mailto:gavrikov85@gmail.com) ◄ ► [Telegram](https://t.me/gawsik_i)
