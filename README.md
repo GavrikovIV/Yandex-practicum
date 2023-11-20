@@ -14,6 +14,12 @@
 |7|[Анализ убытков приложения Procrastinate Pro+](https://github.com/GavrikovIV/Yandex-practicum/blob/main/procrastinate_pro/)|Приложение|Маркетинговый анализ развлекательного приложения Procrastinate Pro+ | `Pandas` `NumPy` `Matplotlib` `OS`|Завершен|
 |8|[Исследование данных с площадки StackOverFlow](https://github.com/GavrikovIV/Yandex-practicum/tree/main/StackOverFlow/)|Площадка|Произвести различные выгрузки данных StackOverFlow с помощью SQL| SQL, запросы, вложенные запросы, временные таблицы, оконные функции, аггрегирующие функции|Завершен|
 |9|[Исследование данных чата Slack](https://github.com/GavrikovIV/Yandex-practicum/blob/main/Slack/)|Приложение|Анализ активности чата Slack| `Pandas` `NumPy` `Matplotlib` `Seaborn` `Json` `OS` `Ast` `Re` |Завершен|
+|10|[Cервис аренды самокатов GoFast](https://github.com/GavrikovIV/Yandex-practicum/tree/main/analyst_rent_scooter_GoFast)|Аренда|Анализ данных и проверка некоторых гипотез, которые могут помочь бизнесу вырасти.| `Pandas` `NumPy` `Matplotlib` `Scipy` `seaborn` `math`|Завершен|
+|11|[А/B-test для интернет магазина](https://github.com/GavrikovIV/Yandex-practicum/tree/main/AB_test)|Интернет магазин|Приоритизация гипотез, запуск A/B-теста, анализ результатов.| `Pandas` `NumPy` `Matplotlib` `Scipy`|Завершен|
+|12|[фитнес-центр «Культурист-датасаентист»](https://github.com/GavrikovIV/Yandex-practicum/tree/main/fitnes_ML)|фитнес| анализ данных и подготовка плана действий по удержанию клиентов с помощью Машинного обучения.| `Pandas` `NumPy` `Matplotlib` `seaborn` `Scipy` `Sklearn` `Itertools`|Завершен|
+|13|[Интернет-магазин «Стримчик»](https://github.com/GavrikovIV/Yandex-practicum/blob/main/internet_shop_Strimchik/README.md)|Интернет магазин| анализ данных и подготовка плана действий по удержанию клиентов с помощью Машинного обучения.| `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scipy` `Math`|Завершен|
+
+
 <br>
 <span align="center">
 
