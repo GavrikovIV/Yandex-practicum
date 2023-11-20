@@ -12,7 +12,8 @@
 |5|[Исследование данных конференций TED](https://github.com/GavrikovIV/Yandex-practicum/tree/main/TED%20Conference%20Data%20Research)|Конференции |Cоздание дашбордов на основе данных о конференциях TED | `Pandas` `SQLAlchemy` `Tableau`|Завершен|
 |6|[Определение уровня NPS по данным Телеком компании](https://github.com/GavrikovIV/Yandex-practicum/tree/main/NPS%20%D0%BF%D0%BE%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8)|Телеком, NPS|Подготовка презентации на основе анализа данных опроса клиентов, определение уровня NPS, создание дашборда в Tableau Public | `Pandas` `SQLAlchemy` `Tableau`|Завершен|
 |7|[Анализ убытков приложения Procrastinate Pro+](https://github.com/GavrikovIV/Yandex-practicum/blob/main/procrastinate_pro/README.md)|Приложение|Маркетинговый анализ развлекательного приложения Procrastinate Pro+ | `Pandas` `NumPy` `Matplotlib` `OS`|Завершен|
-|8|[Анализ убытков приложения Procrastinate Pro+]https://github.com/GavrikovIV/Yandex-practicum/blob/main/procrastinate_pro/README.md|Приложение|Маркетинговый анализ развлекательного приложения Procrastinate Pro+ | `Pandas` `NumPy` `Matplotlib` `OS`|Завершен|
+|8|[Исследование данных с площадки StackOverFlow](https://github.com/GavrikovIV/Yandex-practicum/tree/main/StackOverFlow/README.md)|Площадка|Произвести различные выгрузки данных StackOverFlow с помощью SQL| SQL, запросы, вложенные запросы, временные таблицы, оконные функции, аггрегирующие функции|Завершен|
+|9|[Исследование данных чата Slack](https://github.com/GavrikovIV/Yandex-practicum/blob/main/Slack/README.md)|Приложение|Анализ активности чата Slack| `Pandas` `NumPy` `Matplotlib` `Seaborn` `Json` `OS` `Ast` `Re` |Завершен|
 <br>
 <span align="center">
 
