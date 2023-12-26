@@ -18,6 +18,9 @@
 |11|[А/B-test для интернет магазина](https://github.com/GavrikovIV/Yandex-practicum/tree/main/AB_test)|Интернет магазин|Приоритизация гипотез, запуск A/B-теста, анализ результатов.| `Pandas` `NumPy` `Matplotlib` `Scipy`|Завершен|
 |12|[фитнес-центр «Культурист-датасаентист»](https://github.com/GavrikovIV/Yandex-practicum/tree/main/fitnes_ML)|фитнес| анализ данных и подготовка плана действий по удержанию клиентов с помощью Машинного обучения.| `Pandas` `NumPy` `Matplotlib` `seaborn` `Scipy` `Sklearn` `Itertools`|Завершен|
 |13|[Интернет-магазин «Стримчик»](https://github.com/GavrikovIV/Yandex-practicum/blob/main/internet_shop_Strimchik/README.md)|Интернет магазин| анализ данных и подготовка плана действий по удержанию клиентов с помощью Машинного обучения.| `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scipy` `Math`|Завершен|
+|14|[Метанпромбанк](https://github.com/GavrikovIV/Yandex-practicum/blob/main/%D0%9C%D0%B5%D1%82%D0%B0%D0%BD%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA/README.md)|Банки| Анализ оттока клиентов | `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scipy` `Math` `Missingno` `Phik` `Re` |Завершен|
+|15|[A/B test internet shop](https://github.com/GavrikovIV/Yandex-practicum/blob/main/ABT_internet_shop/README.md)|Интернет магазин| Приоритизация гипотез, запуск A/B-теста, z-test, анализ результатов. | `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scipy` `Math` `IPython.display` `Phik` `Datetime` `Plotly` `Statsmodels` |Завершен|
+|16|[Books shop](https://github.com/GavrikovIV/Yandex-practicum/blob/main/Books_shop_PostgreSQL/README.md)|Интернет магазин| Произвести различные выгрузки данных с помощью postgreSQL | SQL, запросы, вложенные запросы, временные таблицы, оконные функции, аггрегирующие функции, `Pandas` `SQLalchemy`|Завершен|
 
 
 <br>
